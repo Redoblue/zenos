@@ -1,0 +1,1 @@
+nask zenos.asm zenos.img
